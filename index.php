@@ -44,48 +44,6 @@
                 "qpu" => "36 boxes",
                 "price" => 21.3500,
                 "stock" => 0
-            ),
-            "6" => array (
-                "name" => "Grandma's Boysenberry Spread",
-                "qpu" => "12 - 8 oz jars",
-                "price" => 25.0000,
-                "stock" => 120
-            ),
-            "7" => array (
-                "name" => "Uncle Bob's Organic Dried Pears",
-                "qpu" => "12 - 1 lb pkgs.",
-                "price" => 30.0000,
-                "stock" => 15
-            ),
-            "8" => array (
-                "name" => "Northwoods Cranberry Sauce",
-                "qpu" => "12 - 12 oz jars",
-                "price" => 40.0000,
-                "stock" => 6
-            ),
-            "9" => array (
-                "name" => "Mishi Kobe Niku",
-                "qpu" => "18 - 500 g pkgs.",
-                "price" => 97.0000,
-                "stock" => 29
-            ),
-            "10" => array (
-                "name" => "Ikura",
-                "qpu" => "12 - 200 ml jars",
-                "price" => 31.0000,
-                "stock" => 31
-            ),
-            "11" => array (
-                "name" => "Queso Cabrales",
-                "qpu" => "1 kg pkg.",
-                "price" => 21.0000,
-                "stock" => 22
-            ),
-            "12" => array (
-                "name" => "Queso Manchego La Pastora",
-                "qpu" => "10 - 500 g pkgs.",
-                "price" => 38.0000,
-                "stock" => 86
             )
         );
     ?>
