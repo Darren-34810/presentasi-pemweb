@@ -102,8 +102,6 @@
                 </div>
             </div>
         </nav>
-        <h1> Daftar Produk</h1>
-        <hr/>
         <div style="border: 1px #ccc solid; border-radius: 5px; padding: 8px">
             <table id="productTable" class="table table-striped table-bordered" style="width:100%">
                 <thead>
